@@ -1,0 +1,5 @@
+numpy
+flask==3.0.3
+gunicorn
+tensorflow==2.17.0
+Werkzeug==3.0.3

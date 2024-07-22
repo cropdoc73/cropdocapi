@@ -1,0 +1,198 @@
+{
+    "Apple__Apple_scab": {
+        "name": "Apple__Apple_scab",
+        "description": "1. Apple scab is a fungal disease that affects apple trees and causes damage to leaves, fruit, and twigs.\n2. The disease is caused by the fungus Venturia inaequalis and is characterized by the appearance of dark, velvety spots on the leaves and fruit.\n3. Apple scab can reduce the yield and quality of apple crops, and can also weaken the tree over time if left untreated.",
+        "recommended_pesticide": "Captan, Mancozeb",
+        "picture_url": "https://southernag.com/wp-content/uploads/2020/06/Captan-Fungicide-mu.jpg"
+    },
+    "Apple__Black_rot": {
+        "name": "Apple__Black_rot",
+        "description": "1. Fungal disease affecting apple trees in India.\n2. Caused by Botryosphaeria obtusa fungus.\n3. Results in circular, sunken lesions on fruit, turning black and mummified.",
+        "recommended_pesticide": "Thiophanate-methyl, Chlorothalonil",
+        "picture_url": "https://5.imimg.com/data5/HU/OG/MY-998144/thiophanate-methyl-70-wp-500x500.jpg"
+    },
+    "Apple__Cedar_apple_rust": {
+        "name": "Apple__Cedar_apple_rust",
+        "description": "1. Fungal disease affecting apple and cedar trees.\n2. Orange spots on apple leaves, brown galls on cedar trees.\n3. Spores spread by wind, causing damage to apple crops if untreated.",
+        "recommended_pesticide": "Myclobutanil, Thiophanate-methyl",
+        "picture_url": "https://5.imimg.com/data5/SELLER/Default/2023/3/LP/KP/TG/47882562/mancozeb-75-wp-fungicides.jpg"
+    },
+    "Apple__healthy": {
+        "name": "Apple__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Blueberry__healthy": {
+        "name": "Blueberry__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Cherry_(including_sour)__Powdery_mildew": {
+        "name": "Cherry_(including_sour)__Powdery_mildew",
+        "description": "1. Cherry Powdery Mildew is a fungal disease that affects cherry trees, including sour cherries.\n2. It appears as a white or gray powdery coating on the leaves, stems, and fruit of the tree.\n3. The disease can cause reduced growth, defoliation, and reduced fruit quality, and can be controlled through the use of fungicides and cultural practices such as pruning and sanitation.",
+        "recommended_pesticide": "propetone, Propiconazole",
+        "picture_url": "https://www.indiamart.com/proddetail/propiconazole-25-ec-fungicide-14661868348.html"
+    },
+    "Cherry_(including_sour)__healthy": {
+        "name": "Cherry_(including_sour)__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Corn_(maize)__Cercospora_leaf_spot_Gray_leaf_spot": {
+        "name": "Corn_(maize)__Cercospora_leaf_spot_Gray_leaf_spot",
+        "description": "1. Corn Cercospora leaf spot is a fungal disease that affects the leaves of maize plants.\n2. It is characterized by the appearance of small, circular spots on the leaves that are grayish-brown in color with a reddish-brown border.\n3. The disease can cause significant yield losses if left untreated, and management strategies include crop rotation, fungicide applications, and sanitation practices."
+    },
+    "Corn_(maize)__Common_rust": {
+        "name": "Corn_(maize)__Common_rust",
+        "description": "1. Common rust is a fungal disease that affects maize crops.\n2. It appears as small, circular, reddish-brown pustules on the leaves, stems, and husks of the plant.\n3. The disease can reduce the yield and quality of the maize crop if left untreated, but can be controlled through the use of fungicides and other management practices.",
+        "recommended_pesticide": "azoxystrobin, propiconazole",
+        "picture_url": "https://static.agrostar.in/static/AGS-CP-1040_1.jpg"
+    },
+    "Corn_(maize)__Northern_Leaf_Blight": {
+        "name": "Corn_(maize)__Northern_Leaf_Blight",
+        "description": "1. Corn Northern Leaf Blight is a fungal disease that affects maize crops in India.\n2. It is characterized by the appearance of cigar-shaped lesions on the leaves, which can cause significant yield losses if left untreated.\n3. Management strategies for controlling Northern Leaf Blight include crop rotation, use of resistant varieties, and timely application of fungicides.",
+        "recommended_pesticide": "Triafamone, Ethoxysulfuron",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Corn_(maize)__healthy": {
+        "name": "Corn_(maize)__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Grape__Black_rot": {
+        "name": "Grape__Black_rot",
+        "description": "1. Black rot is a fungal disease that affects grapevines.\n2. It causes black spots on leaves and fruit, leading to yield loss.\n3. Proper management practices such as pruning and fungicide application can help control the disease.",
+        "recommended_pesticide": "Mancozeb, Copper oxychloride",
+        "picture_url": "https://static.agrostar.in/static/AGS-CP-189_1.jpg"
+    },
+    "Grape__Esca_(Black_Measles)": {
+        "name": "Grape__Esca_(Black_Measles)",
+        "description": "1. Grape Esca is a fungal disease that affects grapevines.\n2. It causes leaf discoloration, wood decay, and eventual vine death.\n3. The disease is difficult to control and can result in significant economic losses for grape growers.",
+        "recommended_pesticide": "Azoxystrobin, Tebuconazole",
+        "picture_url": "https://5.imimg.com/data5/SELLER/Default/2021/8/HD/AH/NS/133319790/44.jpg"
+    },
+    "Grape__Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "name": "Grape__Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "description": "1. Grape leaf blight is caused by a fungus called Isariopsis.\n2. It causes small, circular spots on leaves that turn brown with a yellow halo.\n3. The disease can be controlled by removing infected leaves and using fungicides.",
+        "recommended_pesticide": "Mancozeb, Copper oxychloride",
+        "picture_url": "https://www.agriplexindia.com/cdn/shop/files/NewProject_67.jpg?v=1691558862"
+    },
+    "Grape__healthy": {
+        "name": "Grape__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Orange__Haunglongbing_(Citrus_greening)": {
+        "name": "Orange__Haunglongbing_(Citrus_greening)",
+        "description": "1. Citrus greening disease caused by bacteria.\n2. Affects citrus trees, causing yellowing and decline.\n3. No cure, management involves control of insect vectors and removal of infected trees.",
+        "recommended_pesticide": "Imidacloprid, Thiamethoxam",
+        "picture_url": "https://static.agrostar.in/static/AGS-CP-708_N_1.jpg"
+    },
+    "Peach__Bacterial_spot": {
+        "name": "Peach__Bacterial_spot",
+        "description": "1. Peach bacterial spot is a serious disease caused by Xanthomonas arboricola.\n2. It affects the leaves, fruit, and twigs of peach trees.\n3. Symptoms include dark spots on leaves, cankers on twigs, and lesions on fruit.",
+        "recommended_pesticide": "recommended pesticide",
+        "picture_url": "https://m.media-amazon.com/images/I/411WONeAImL._AC_UF1000,1000_QL80_.jpg"
+    },
+    "Peach__healthy": {
+        "name": "Peach__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Pepper,_bell__Bacterial_spot": {
+        "name": "Pepper,_bell__Bacterial_spot",
+        "description": "1. Bacterial spot is a serious disease affecting pepper crops.\n2. Caused by Xanthomonas campestris pv. vesicatoria bacteria.\n3. Symptoms include dark, water-soaked lesions on leaves and fruit, leading to defoliation and yield loss.",
+        "recommended_pesticide": "Copper-based bactericides, Streptomycin",
+        "picture_url": "https://5.imimg.com/data5/YX/KQ/MY-4469380/copper-oxychloride-50-wp-500x500.jpg"
+    },
+    "Pepper,_bell__healthy": {
+        "name": "Pepper,_bell__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Potato__Early_blight": {
+        "name": "Potato__Early_blight",
+        "description": "1. Early blight is a fungal disease affecting potato plants.\n2. Caused by Alternaria solani fungus.\n3. Symptoms include dark brown lesions on leaves, leading to defoliation and reduced yield if untreated.",
+        "recommended_pesticide": "Chlorothalonil, Mancozeb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Potato__Late_blight": {
+        "name": "Potato__Late_blight",
+        "description": "1. Late blight is a fungal disease affecting potato plants.\n2. Caused by Phytophthora infestans fungus.\n3. Symptoms include water-soaked lesions on leaves, leading to rapid defoliation and tuber rot if untreated.",
+        "recommended_pesticide": "Mefenoxam, Propamocarb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Potato__healthy": {
+        "name": "Potato__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Raspberry__healthy": {
+        "name": "Raspberry__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Soybean__healthy": {
+        "name": "Soybean__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Squash__Powdery_mildew": {
+        "name": "Squash__Powdery_mildew",
+        "description": "1. Powdery mildew is a fungal disease that affects squash plants.\n2. Caused by Podosphaera xanthii fungus.\n3. Symptoms include white powdery spots on leaves, which can lead to reduced photosynthesis and yield loss if untreated.",
+        "recommended_pesticide": "Sulfur, Potassium bicarbonate",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Strawberry__Leaf_scorch": {
+        "name": "Strawberry__Leaf_scorch",
+        "description": "1. Leaf scorch is a fungal disease affecting strawberry plants.\n2. Caused by Diplocarpon earlianum fungus.\n3. Symptoms include red spots on leaves, which can lead to defoliation and reduced yield if untreated.",
+        "recommended_pesticide": "Chlorothalonil, Mancozeb",
+        "picture_url": "https://www.agriplexindia.com/cdn/shop/files/NewProject_67.jpg?v=1691558862"
+    },
+    "Strawberry__healthy": {
+        "name": "Strawberry__healthy",
+        "description": "This plant is growing strong and healthy."
+    },
+    "Tomato__Bacterial_spot": {
+        "name": "Tomato__Bacterial_spot",
+        "description": "1. Bacterial spot is a serious disease affecting tomato crops.\n2. Caused by Xanthomonas campestris pv. vesicatoria bacteria.\n3. Symptoms include dark, water-soaked lesions on leaves and fruit, leading to defoliation and yield loss.",
+        "recommended_pesticide": "Copper-based bactericides, Streptomycin",
+        "picture_url": "https://5.imimg.com/data5/YX/KQ/MY-4469380/copper-oxychloride-50-wp-500x500.jpg"
+    },
+    "Tomato__Early_blight": {
+        "name": "Tomato__Early_blight",
+        "description": "1. Early blight is a fungal disease affecting tomato plants.\n2. Caused by Alternaria solani fungus.\n3. Symptoms include dark brown lesions on leaves, leading to defoliation and reduced yield if untreated.",
+        "recommended_pesticide": "Chlorothalonil, Mancozeb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Tomato__Late_blight": {
+        "name": "Tomato__Late_blight",
+        "description": "1. Late blight is a fungal disease affecting tomato plants.\n2. Caused by Phytophthora infestans fungus.\n3. Symptoms include water-soaked lesions on leaves, leading to rapid defoliation and fruit rot if untreated.",
+        "recommended_pesticide": "Mefenoxam, Propamocarb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Tomato__Leaf_Mold": {
+        "name": "Tomato__Leaf_Mold",
+        "description": "1. Leaf mold is a fungal disease affecting tomato plants.\n2. Caused by Cladosporium fulvum fungus.\n3. Symptoms include yellowing and browning of leaves, which can lead to reduced yield if untreated.",
+        "recommended_pesticide": "Chlorothalonil, Mancozeb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Tomato__Septoria_leaf_spot": {
+        "name": "Tomato__Septoria_leaf_spot",
+        "description": "1. Septoria leaf spot is a fungal disease affecting tomato plants.\n2. Caused by Septoria lycopersici fungus.\n3. Symptoms include small, dark spots on leaves, which can lead to defoliation and reduced yield if untreated.",
+        "recommended_pesticide": "Chlorothalonil, Mancozeb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Tomato__Spider_mites_Two-spotted_spider_mite": {
+        "name": "Tomato__Spider_mites_Two-spotted_spider_mite",
+        "description": "1. Spider mites are common pests that affect tomato plants.\n2. They feed on plant juices, causing yellow stippling on leaves and reducing plant vigor.\n3. Management involves using predatory mites, insecticidal soaps, and reducing dust to control populations.",
+        "recommended_pesticide": "Insecticidal soap, Spinosad",
+        "picture_url": "https://www.indiamart.com/proddetail/spinosad-insecticide-24934453548.html"
+    },
+    "Tomato__Target_Spot": {
+        "name": "Tomato__Target_Spot",
+        "description": "1. Target spot is a fungal disease affecting tomato plants.\n2. Caused by Corynespora cassiicola fungus.\n3. Symptoms include circular lesions with concentric rings on leaves, which can lead to defoliation and reduced yield if untreated.",
+        "recommended_pesticide": "Chlorothalonil, Mancozeb",
+        "picture_url": "https://www.google.com/url?url=%23&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiKn9vAo6OHAxWyxjgGHfnwCeMQ1SkIqAYoAA&usg=AOvVaw1JPEPIbiggl3tDvOxP6FEc"
+    },
+    "Tomato__Tomato_Yellow_Leaf_Curl_Virus": {
+        "name": "Tomato__Tomato_Yellow_Leaf_Curl_Virus",
+        "description": "1. Tomato Yellow Leaf Curl Virus is a viral disease affecting tomato plants.\n2. Caused by begomoviruses transmitted by whiteflies.\n3. Symptoms include yellowing and curling of leaves, stunted growth, and reduced yield.",
+        "recommended_pesticide": "Imidacloprid, Acetamiprid",
+        "picture_url": "https://www.agriplexindia.com/cdn/shop/files/NewProject_67.jpg?v=1691558862"
+    },
+    "Tomato__healthy": {
+        "name": "Tomato__healthy",
+        "description": "This plant is growing strong and healthy."
+    }
+}
